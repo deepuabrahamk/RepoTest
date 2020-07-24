@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 0CA9-5B79
+
+ Directory of C:\Work\Python\Git
+
+07/24/2020  01:59 PM    <DIR>          .
+07/24/2020  01:59 PM    <DIR>          ..
+07/24/2020  01:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  244,158,840,832 bytes free
